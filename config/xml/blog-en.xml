@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Mon, 14 Mar 2016 08:55:59 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>3 ways to personalize the customer journey and increase online sales</title>
+		<link>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/</link>
+		<comments>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/#comments</comments>
+		<pubDate>Mon, 14 Mar 2016 08:55:59 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21296</guid>
+		<description><![CDATA[<p>75% of consumers say they like it when brands personalize the shopping experience, with 54% going as far as to say that they would consider ending their relationship with a retailer if they weren’t given tailored content and offers. Personalization, then, is clearly a consumer-led trend with a bright future. And with 94% of companies [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/">3 ways to personalize the customer journey and increase online sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>75%</strong> of consumers say they like it when brands personalize the shopping experience, with <strong>54%</strong> going as far as to say that they would consider ending their relationship with a retailer if they weren’t given tailored content and offers. Personalization, then, is clearly a consumer-led trend with a bright future. And with 94% of companies agreeing it “is critical to current and future success” brands seem to understand its importance. But they while they may want to heed the call, do they know how to do it well?<br />
+<span id="more-21296"></span><br />
+According to analyst firm Gartner, no, they do not. In a recent report they stated that “confusion abounds in the marketplace as to what constitutes personalization”- alarming, considering the potential this trend has to change the ecommerce world.</p>
+<p>So, what is personalization? And how can it be applied to your PrestaShop store to make real and important long-term improvements to your business? </p>
+<p>Personalization, at its most basic level, is the delivery of tailored content and experiences across every point of the customer journey. In other words, the right content, for the right person, at the right time. </p>
+<p>When done right, a long-term strategy aimed at increasing customer lifetime value (CLTV) can yield increases in conversion, average order value, customer retention and overall revenue. The most sophisticated personalization solutions are automated, easy to setup, and simple to optimize and maintain. Despite their relative simplicity, they should be considered a long-term tool to improve your KPIs and customer satisfaction, not a quick fix. Why? Because at the very core personalization is about identifying and forming relationships between customer behavior and product details to be able to determine what a customer is will like and purchase. The more items and traffic your store has, the faster and stronger these relationships will be formed.  </p>
+<p>So, you have the traffic, the items and the desire to improve your KPIs. What now? Let’s look at the three levels of personalization and how, in real terms, they can be applied to the customer journey&#8230; </p>
+<h4 style="color:#ce0587">Collaborative filtering:</h4>
+<p><em>Tailoring the shopping journey according to crowd logic &#8211; for example, best sellers.</em></p>
+<p>This type of personalization relies on the assumption that people follow a crowd mentality, led by societal norms, and reinforced by the approval of their peers. It includes the highlighting of ‘best-seller’ and ‘trending’ items, something done not only to give precedence to items most likely to convert, but also to reassure customers that their buying decisions are approved by general consensus.</p>
+<h4 style="color:#ce0587">Segmentation:</h4>
+<p><em>Targeting individuals belonging to a larger group defined by shared traits- for example, demographic, geo-location or device type.</em></p>
+<p>This can include simple changes, such as presetting your site’s language configuration for IP addresses from a certain country, or it may be a logic employed according to more complicated, automated, and algorithmic change. For example, automatically editing the content of an ad to contain a certain style of female clothing for a certain age of female audience. While this category of personalization isn’t truly individualized, it is targeted.</p>
+<h4 style="color:#ce0587">One-to-one personalization:</h4>
+<p><em>Tailoring the ecommerce experience to individual shoppers, and what purists would state to be the true meaning of personalization- for example, “Recommended for you”.</em></p>
+<p>This can be done in real-time according to immediate behavioral changes or based on individualized customer profiles, built up over time using historical data. When profiling a customer, information may be collected across hundreds of data points from several sources, including location, onsite and offsite behavior, and interaction with emails. Information collected can include interests, context, and even where they are in the buying cycle.</p>
+<p>Personalization is one trend that can be relevant at every part of the sales funnel &#8211; including customer acquisition, conversion, retention, and finally, delight. The following is an example of a truly personalized journey, an example of what would happen, were you to implement the most personalization strategies. </p>
+<h2 style="color:#ce0587">Personalization to drive qualified traffic to your store:</h2>
+<p>This primarily involves personalized product-level displays or social adverts. These can either be targeted at specific audiences or aimed at the individual through retargeting. In terms of effectiveness, personalized display ads have a CTR 10x higher than traditional display ads, with the average ROI of Nosto Personalized Facebook Ads clocking in at 36x. </p>
+<p><strong>Example:</strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/03/dealer-de-coque.png" alt="dealer-de-coque" width="498" height="393" class="aligncenter size-full wp-image-21300" /></p>
+<p><a href="http://dealerdecoque.fr/en/" target="_blank">Dealer de Coque</a> set out to tempt new customers away from their Facebook conversation and to the online store by using <a href="http://www.nosto.com/features/facebook-ads/" target="_blank">personalized Facebook adverts</a> to highlight real-time trending items. These ‘Best Seller’ product-level ads are automatically updated on a regular basis to show the most popular items in the store, and therefore represent items that are most likely to convert. Ads are populated based on real-time user behavior, as well as stock levels – meaning an out-of-stock product is never shown. The highlighting of real-time trending items in this type of prospecting ad has been shown to produce a 13x higher CTR.</p>
+<h2 style="color:#ce0587">Personalization to convert:</h2>
+<p><em>Automated onsite product recommendations that allow customers a smoother, quicker and tailored journey through your store.</em></p>
+<p>According to Infosys, 86% of people say personalization plays a role in their buying decisions, with customers who clicked on personalization elements 125% more likely to buy.</p>
+<p>Additionally, you may use pop-ups to deliver time-limited special offers, and one-time discount targeted according to behaviour or customer type. These type of pop-ups have seen a 55% average increase in conversion for first time visitors.</p>
+<p><strong>Example:</strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/03/planetfitness-714x1024.png" alt="planetfitness" width="500" class="aligncenter size-large wp-image-21299" /></p>
+<p><a href="http://www.planetfitness.com/" target="_blank">Planet Fitness</a> needed a way to offer a highly personalized service while dealing with increased customer demand. With a wide selection of complementary products, it was also important that each customer be able to find exactly what they were looking for, while being exposed to the product range. Using on-site personalization, the company was able to deliver highly-targeted product recommendations based on the brands and categories their customers love, as well as individual shopping behavior. By delivering the most relevant customer experience to each visitor these type of recommendations have been shown to increase conversion by up tp 11%.</p>
+<h2 style="color:#ce0587">Personalization to retain customers &amp; create promoters:</h2>
+<p><em>Dynamically tailor newsletter content to be unique to each recipient using dynamically editable copy or images, or by including product-level recommendations.</em></p>
+<p>Personalization within emails has been shown to improve click-through rates by 14%.</p>
+<p><strong>Example:</strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/03/mylittlesquare-573x1024.png" alt="mylittlesquare" width="300" class="aligncenter size-large wp-image-21297" /></p>
+<p>Using <a href="http://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/18349-nostotagging.html" target="_blank">personalized abandoned cart emails</a>, <a href="http://www.mylittlesquare.com/" target="_blank">My Little Square</a> have been able to promote the right products, to the right audience, at the right time &#8211; allowing My Little Square to retain otherwise lost customers. </p>
+<p>Email marketing that uses automated offers based on individual user behavior, rather from static product recommendations, has been shown to produce click-through rates 10x higher than the industry standard.</p>
+<p>So there you have it: making the shopping experience easier, smoother, more personal and more enjoyable results in happier customers. And ultimately, happy customers buy more, more often and are more loyal. Personalization will help increase conversion rates, average order values and CLTV- which are key metrics that determine the success of your business.If you improve your customer&#8217;s experience at every stage of the sales funnel, you will automatically improve the metrics associated with each of those stages.</p>
+<p>To optimize the traffic you have on your site and enjoy the benefits of personalization start your 14-day trial with Nosto <a href="http://addons.prestashop.com/en/remarketing-shopping-cart-abandonment/18349-nostotagging.html" target="_blank">here</a>. </p>
+<p><em>Sources: <a href="http://www.aberdeen.com/research/4904/ra-email-marketing/content.aspx" target="_blank">Aberdeen Group</a>, <a href="https://www.nchannel.com/blog/retail-data-ecommerce-statistics/" target="_blank">NChannel blog</a>, <a href="http://www.etailcore.com/blog/personalisation-is-critical/" target="_blank">etailcore</a>, <a href="http://www.getelastic.com/display-retargeting-are-personalized-ads-better-than-generic/" target="_blank">getelastic</a>, <a href="http://www.gigya.com/blog/5-stats-that-prove-businesses-must-personalize-to-win-customers/" target="_blank">gigya</a>.</em></p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/">3 ways to personalize the customer journey and increase online sales</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-ways-to-personalize-the-customer-journey-and-increase-online-sales/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</title>
+		<link>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/</link>
+		<comments>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/#comments</comments>
+		<pubDate>Thu, 10 Mar 2016 10:14:21 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21282</guid>
+		<description><![CDATA[<p>Today, Leah Hamilton from Terms Feed explains how to give your site a little “spring cleaning” to ensure optimum functionality and legal compliance, year-round. Keeping your ecommerce store fresh and up-to-date is important to ensure that it functions well, meets customer needs, and maintains any legal obligations that you may have (such as intellectual property [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/">3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>Today, Leah Hamilton from Terms Feed explains how to give your site a little “spring cleaning” to ensure optimum functionality and legal compliance, year-round.</em></p>
+<p>Keeping your ecommerce store fresh and up-to-date is important to ensure that it functions well, meets customer needs, and maintains any legal obligations that you may have (such as intellectual property protection and privacy rules). By examining your ecommerce store up close once a year, you can avoid unpleasant surprises later on.</p>
+<p>We’ll take a look at 3 “spring beginnings” you should apply to your ecommerce store to keep your business in top legal condition. First we’ll look at protecting IP, as well as product photos; next we’ll examine your Privacy Policy and some things to note about leveraging old data; finally, we’ll describe some tips for making sure you’re not in breach of anti-spam laws with any marketing emails you may be sending.</p>
+<p><span id="more-21282"></span></p>
+<h2>Updating Product Photos and Protecting IP</h2>
+<p>Refreshing <a href="https://www.prestashop.com/blog/en/improve-product-photos-online-store-the-5-mistakes-you-dont-want-commit/">product photos</a> is something that you need to do at least once a year, and even more frequently if your stock changes often.</p>
+<h3>False Advertising</h3>
+<p>By providing <a href="http://www.efulfillmentservice.com/2012/03/ecommerce-tip-of-the-week-use-great-photos/" target="_blank">accurate, up-to-date product photos</a>, you reduce the likelihood of items being returned for not meeting the accompanying written description. Even better, you’ll avoid legal liability for misleading or false advertising. For example, take a look at these product photo comparisons:</p>
+<p>In this image you can see that using flash has made the first photo look over-exposed and unappealing. The second photo looks softer and nicer, like a mug you would actually want to drink from!</p>
+<p><img class="aligncenter size-full wp-image-21285" alt="img01" src="https://www.prestashop.com/blog/en/files/2016/03/img01.jpg" width="1024" height="768" /></p>
+<p>These images show us how the same product can be presented in wildly different ways, depending on the photography. The first image is blurry, has awkward shadows, is off-kilter, and doesn’t look particularly mouth watering. The second image looks appealing: the lighting is good and the background has been digitally altered.</p>
+<p>The above images are good examples of photography can enhance a product’s desirability. But when this is taken too far, you risk crossing the line into false advertising through misleading imagery. While unfortunately a common occurrence, this practice is unacceptable with regard to advertising standards. We see it most often in relation to <a href="http://izismile.com/2009/04/27/fast-food_products_on_ads_and_in_real_life_14_pics.html" target="_blank">fast food advertisements</a> (and the often-disappointing real food). Take a look at this example:</p>
+<p><img class="aligncenter size-full wp-image-21286" alt="img02" src="https://www.prestashop.com/blog/en/files/2016/03/img02.jpg" width="640" height="256" /></p>
+<p>You can protect yourself from these issues by carefully <a href="https://www.prestashop.com/blog/en/diy-ecommerce-guide-to-gorgeous-product-photography/">taking your own product photos</a> or using a professional photographer to do so.</p>
+<h3>Protecting Your IP</h3>
+<p>Once you have <a href="https://www.prestashop.com/blog/en/make-the-most-of-your-product-images-with-prestashop/">created new product photos</a> (whether on your own or with the help of a professional), you need to ensure that you protect your own intellectual property in these images. The type of intellectual property protection we’re referring to here is copyright.</p>
+<p>Copyright protects your work from being copied or used by other people. Typically, a work must meet minimal standards of originality in order to qualify for copyright, and the copyright expires after a set period of time (some jurisdictions may allow this to be extended).</p>
+<p>Different countries use different tests to determine when copyright “attaches” to a work, although generally the requirements are low. For example, in the UK, &#8220;skill, labour, and judgment&#8221; must have been put into the original work for it to have copyright protection. In every country that has adopted the Berne Convention standards, <a href="https://www.gov.uk/copyright" target="_blank">copyright is automatic</a>, unless the jurisdiction also provides for a system of registration within that country. In that case, registration may be necessary to prove in court that you have a valid copyright, even though you might already have a valid (automatic) copyright.</p>
+<h2>Leveraging Data and Your Privacy Policy</h2>
+<p>Remember to take a look at what data you are still leveraging and using from the previous year. The first thing to do is examine whether it is still relevant and up to date.</p>
+<p>Next, look at:</p>
+<ul>
+<li>who has access to the data within your organisation?</li>
+<li>do those people need to have access to that data?</li>
+<li>is the data still relevant to your purpose for collecting it?</li>
+<li>are your previous conclusions (from analysing the data) still relevant?</li>
+<li>are you still using the data in the best way for the current market?</li>
+<li>do you need to re-analyse the data to pull out new trends to create new business strategies?</li>
+</ul>
+<p>This is also a good opportunity to refresh your Privacy Policy. We’ve examined Privacy Policies at PrestaShop before, in two parts. The <a href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-1/">first part</a> examined what a Privacy Policy is, and how you can comply with laws in the US and EU. The <a href="https://www.prestashop.com/blog/en/protecting-customer-privacy-prestashop-store-part-2/">second part</a> looked at displaying your Privacy Policy, and keeping it secure.</p>
+<p>If you’re updating your Privacy Policy to comply with those rules, you’ll now need to know how to post an update to your Privacy Policy on your ecommerce store to ensure customers are legally bound by your new version. Your updates must be visible and accessible, and your customers must be informed that an update has been made.</p>
+<p>One good way to do this is to send out an email to customers who have signed up, saying your terms have been updated. Here’s an example from <a href="https://bitly.com/" target="_blank">Bitly</a>:</p>
+<p><a href="https://www.prestashop.com/blog/en/files/2016/03/img03.jpg"><img class="aligncenter size-full wp-image-21287" alt="img03" src="https://www.prestashop.com/blog/en/files/2016/03/img03.jpg" width="610" height="929" /></a></p>
+<p>You can see that the message is clear, sets out the changes in an easy-to-read form that customers can understand, and also includes a link to the new Privacy Policy so customers can read it.</p>
+<p>Another way is to display a link on your website or blog. Take a look at this example from <a href="http://www.swcredit.com.au/blog-blog-2014-our-privacy-policy-has-changed.html" target="_blank">Southwest Credit</a>:</p>
+<p><a href="https://www.prestashop.com/blog/en/files/2016/03/img04.jpg"><img class="aligncenter size-full wp-image-21288" alt="img04" src="https://www.prestashop.com/blog/en/files/2016/03/img04.jpg" width="997" height="352" /></a></p>
+<p>The key thing to remember here (as established in the legal case of <a href="http://blog.ericgoldman.org/archives/2010/11/another_ruling.htm" target="_blank">Roling v. E*Trade</a>) is that it’s not enough to just upload a copy of the new terms to your website &#8211; you must tell your users that the document has changed or been updated.</p>
+<h2>Anti-Spam Compliance and Email Marketing</h2>
+<p>Finally, make sure you update all of your email templates and segment your marketing lists. Email templates can all-too-often be left behind.</p>
+<h3>Email Templates and Anti-Spam Law</h3>
+<p>Updating your email templates allows you to ensure compliance with anti-spam legislation, such as CAN-SPAM in the US, the Privacy and Electronic Communications (EC Directive) Regulations 2003 in the UK, and the Privacy and Electronic Communication Directive in the EU. These laws cover what you need to do when emailing customers or potential customers to ensure that you are not sending unsolicited or misleading messages. We’ve covered this at PrestaShop before, in our holiday-themed article on anti-spam laws. Take a look at some of the key points <a href="https://www.prestashop.com/blog/en/anti-spam-time-season/">here</a>.</p>
+<p>Remember that one of the most important steps towards compliance you can take when examining your email templates is to check whether they all include an unsubscribe link for any marketing messages that you send out. Another key feature your email templates need is the ability to customize aspects to ensure message accuracy. For example, make sure it is clear to those using the templates that they should change subject headers to reflect the content of the message.</p>
+<h3>Segmenting Marketing Lists</h3>
+<p><a href="http://blog.hubspot.com/blog/tabid/6307/bid/32848/Why-List-Segmentation-Matters-in-Email-Marketing.aspx" target="_blank"> Segmenting marketing lists</a> is important for high quality marketing, as it allows you to exercise a more targeted email strategy that is less likely to be viewed as spam.</p>
+<p>There are several <a href="http://smallbiztrends.com/2015/12/segmenting-your-email-lists.html" target="_blank">different ways</a> to segment your customers. For example, you can look at natural groups such as sex, location, or age, or examine trends such as groups of people that have the same spending patterns. The important thing to keep in mind when determining segmentation is that you are not just splitting your customers into groups for the sake of it: remember that the purpose is to segment your customers into categories that make sense in terms of what affects buying behaviour. There’s no point splitting your customers into men and women if your data shows that their buying behaviour for your product is the same.</p>
+<p>The primary benefit of customer segmentation is that it allows you to pinpoint which groups are the most and least profitable so you can create targeted marketing campaigns for each of them. This allows you to allocate business marketing resources more prudently, and in a more focused manner.</p>
+<h2>Conclusion</h2>
+<p>Re-examining your product photos, IP protection, data leveraging methods and privacy, as well as anti-spam compliance and email features can help keep your marketing messages fresh and your business practices legally compliant.</p>
+<p>Remember to take a look at these key areas every year to ensure that you don’t let something fall behind. While it may appear to be a lot of effort, the benefits are more than worth it.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/">3 Spring Cleaning Tips for Your Ecommerce Store: Legal Edition</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-spring-cleaning-tips-ecommerce-store-legal-edition/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</title>
+		<link>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/</link>
+		<comments>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/#comments</comments>
+		<pubDate>Thu, 25 Feb 2016 13:30:53 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21259</guid>
+		<description><![CDATA[<p>By 2017, U.S. retail ecommerce sales are expected to hit $434.2 billion, up from $225.5 billion in 2012. It’s safe to say that the pie is getting bigger. Entrepreneurs looking to get a bigger piece of that pie can’t afford to be involved in every last task: updating product descriptions, data exports, inventory management, and [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/">eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>By 2017, U.S. retail ecommerce sales are <a href="http://www.statista.com/statistics/272391/us-retail-e-commerce-sales-forecast/" target="_blank">expected to hit $434.2 billion</a>, up from $225.5 billion in 2012. It’s safe to say that the pie is getting bigger.</p>
+<p>Entrepreneurs looking to get a bigger piece of that pie can’t afford to be involved in every last task: updating product descriptions, data exports, inventory management, and social media are all things you need to hand off if you want to progress to the next level.</p>
+<p>Managing a virtual staff can relieve some of the day-to-day activities that suck up your time. Just don’t make the mistake of thinking your virtual assistants (VAs) don’t need to be trained and managed.</p>
+<p>Here are ten tips and tools to get the most of our your virtual staff.</p>
+<p><span id="more-21259"></span></p>
+<h3>1. Know What (and How) to Delegate</h3>
+<p>Know your strengths, and know what you need your team to do. Regardless of how many ecommerce staff members you have, it pays to know where your time is best spent, and the strengths of each team member. Delegate tasks according to what needs to be done, but also to who will do them best.</p>
+<h3>2. Foster a Culture of Teamwork and Unity</h3>
+<p>This is easy to do when everyone comes together in an office every day, but not so much when a team is spread out across the country or even the world. While it’s important to consider the time differences between geographic locations, do your best to provide a place where employees can come together as if they were at the water cooler chatting with one another. You can do this by creating a group Skype conversation, a secret Facebook group, or your own internal social network with a tool like <a href="https://podio.com/site/en" target="_blank">Podio</a>.</p>
+<p>Host virtual meetings with Skype, Google Hangouts, or another tool like <a href="http://www.gotomeeting.com/" target="_blank">GoToMeeting</a>. Timing can be difficult if you’re working on the other side of the world, so make sure recordings are available to view later for those members who couldn’t attend live.</p>
+<h3>3. Set Up VA Access Rights</h3>
+<p>PrestaShop makes it easy <a href="http://doc.prestashop.com/display/PS14/Managing+Employees" target="_blank">to configure your store access rights</a> for each member of your team. Have an extensive catalog and need help updating it? Employee accounts allow you to control what team members can access. As your VA gains trust, you can increase their workload, and access level.</p>
+<p><a href="https://www.prestashop.com/blog/en/files/2016/02/img01.png"><img class="aligncenter size-full wp-image-21265" alt="img01" src="https://www.prestashop.com/blog/en/files/2016/02/img01.png" width="345" height="458" /></a></p>
+<h3>4. Protect Your Cloud Data</h3>
+<p>These days, everything goes on the cloud. Even Prestashop. Controlling access levels is a must-needed first step in managing your ecommerce business. But what about other cloud-based software that your VAs access on their personal devices?</p>
+<p>Microsoft SCCM can manage your virtual staff’s access levels to all of your cloud-based applications on their devices. If you’re unfamiliar with how to use a system like this for your ecommerce store, there are user friendly <a href="https://www.cbtnuggets.com/it-training/microsoft-sccm-70-243-r2" target="_blank">tutorials about Microsoft SCCM</a>. With a single management console, you can manage Macs, PCs, servers, and cloud-based mobile devices running Windows®, iOS®, or Android™, all from a central location.</p>
+<h3>5. Have an Onboarding and Training Process</h3>
+<p>Create a series of videos to train your team on how to do the various tasks associated with the job. Have documents like W9s, contracts, non-disclosure agreements, and more, ready to go for your new hires. Consider using a platform like <a href="https://www.docusign.com/" target="_blank">DocuSign </a>to handle signing documentation digitally.</p>
+<h3>6. Centralize Time Tracking and Payroll</h3>
+<p>With platforms like Tick, you can <a href="https://www.tickspot.com/project-budget-tracking" target="_blank">budget and track your team’s time</a>. If you’re really worried about whether your team is actually working, use a tool like <a href="https://hubstaff.com/" target="_blank">Hubstaff</a>. You can add multiple team members and projects, and handle payments from within the system, to make it easier for everyone.</p>
+<p><a href="https://www.prestashop.com/blog/en/files/2016/02/img02.png"><img class="aligncenter size-full wp-image-21266" alt="img02" src="https://www.prestashop.com/blog/en/files/2016/02/img02.png" width="490" height="290" /></a></p>
+<h3>7. Offer Rewards for a Job Well Done</h3>
+<p>You may not be able to offer a full benefits package like the folks at Google or Facebook, but incentives can go a long way toward keeping your employees happy. A <a href="http://www.globoforce.com/resources/research-reports/shrmgloboforce-fall-2012-report-the-business-impact-of-employee-recognition/" target="_blank">2012 study</a> showed that 41% of companies that use peer-to-peer recognition programs have seen an increase in customer satisfaction, so it really pays to keep your employees happy. That same study also revealed an average of 23.4% lower turnover rate.</p>
+<p>Consider offering cash bonuses, gift cards, or even tangible rewards like tablets, computers, and gaming consoles to employees who are going above and beyond the call of duty to make your business better.</p>
+<h3>8. Educate Your Team About Fraud</h3>
+<p>When it comes to <a href="https://www.prestashop.com/blog/en/the-smartest-checklists-to-manage-your-online-store/">managing your store</a>, fraud is no doubt going to rear its ugly head at some point. Your team needs to know what kinds of things to look for, and what can happen to the business as a result of fraudulent transactions. Hackers often see the tiny fish in the sea as the easier targets. If your team knows what to look for, they can help stop it in its tracks, saving you time and frustration.</p>
+<h3>9. Be Available to Your Team</h3>
+<p>Make sure all members of your team can reach you when they need to. Being available to answer questions, or to provide additional support can help keep the lines of communication open. When your team knows they can come to you, you’ll be less likely to run into issues because they were afraid to come to you something before it became a problem.</p>
+<h3>10. Have a Plan to Address Turnover</h3>
+<p>If you have the staff of your dreams, that’s wonderful, but you can’t count on it being that way forever. Virtual staff members, whether they work for you full or part time, may find other opportunities for growth and advancement, which means you need to be ready to replace any member of your staff at any time. You may find team members aren’t performing the way you need them to, and you can only give someone so many chances before you need to replace them.</p>
+<p>Know where to look for new workers, whether you’re hiring them as freelancers, or full fledged employees. LinkedIn is a great place to start, but you can also post ads on Craigslist, or turn to freelance marketplaces like Guru in a pinch.</p>
+<p>Managing a virtual team for any business, especially ecommerce, isn’t for the faint of heart. But, fortunately for you, even if you’re working with a small budget, there are plenty of affordable tools available to make the job easier on everyone.</p>
+<p>&#8211;</p>
+<p>Darren has an MBA in Internet Marketing, but hangs his hat on a decade of experience in the trenches. Check out <a href="https://selfstartr.com/" target="_blank">Selfstartr </a>to learn more about ecommerce. Follow him on <a href="https://twitter.com/DarrenDeMatas" target="_blank">Twitter </a>and <a href="https://www.linkedin.com/in/internetmarketingmba" target="_blank">LinkedIn</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/">eCommerce Virtual Staff: 10 Tips To Beef Up Productivity</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/ecommerce-virtual-staff-10-tips-beef-productivity/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Get started with video marketing for eCommerce</title>
+		<link>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/</link>
+		<comments>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/#comments</comments>
+		<pubDate>Mon, 22 Feb 2016 13:30:14 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21233</guid>
+		<description><![CDATA[<p>A photo might be worth a thousand words, but a product video is worth much more in terms of engagement and conversions. 96% of consumers find video content useful when shopping online. eCommerce merchants featuring product videos on their sites report an increase in conversion rates of up to 85%. Other benefits of video for [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/">Get started with video marketing for eCommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A photo might be worth a thousand words, but a product video is worth much more in terms of engagement and conversions. <a href="http://www.reelseo.com/consumers-purchase-video/" target="_blank">96% of consumers</a> find video content useful when shopping online. eCommerce merchants featuring product videos on their sites report an increase in conversion rates of <a href="http://blog.crazyegg.com/2015/03/05/videos-boost-conversion-rates/" target="_blank">up to 85%</a>. Other <a href="http://blog.goodvid.io/5-benefits-of-having-product-videos-on-ecommerce-site?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">benefits of video for ecommerce</a> include: prolonged session duration, more site pages visited, improved conversion rates and more site traffic.</p>
+<p>Let’s take a look at some of the basic things to consider when developing a video marketing strategy for your business.<br />
+<span id="more-21233"></span></p>
+<h2>How to select the right video marketing strategy for you</h2>
+<p>Before you dive into the creative aspect of video marketing, you should evaluate what kind of video strategy works best for you. What do you expect to achieve with videos on your site? What kind of resources do you have in terms of time, money and skills? The role you envision for videos on your site and the effort you are prepared to invest in video marketing should guide your strategy. There are three main routes you can take:</p>
+<h4>1. Make your own videos</h4>
+<p>Creating your own videos is the most resource-demanding strategy, but also the most rewarding one in terms of giving a voice to your brand. If you are selling products under your own label, then making your own videos makes sense, as this strategy allows you to promote your own brand, values and vision.</p>
+<h4>2. Source videos from brands, experts and users</h4>
+<p>Not all online merchants have the drive to create their own videos, and that’s fine. If you are pressed for time and resources or simply don’t feel comfortable in front of the camera, make use of existing videos about the products and brands you sell. YouTube and other video-sharing platforms are overflowing with <a href="https://goodvid.io/video-gallery?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">videos by brands</a>, experts and users that are available for re-sharing on ecommerce sites&#8211;and, best of all, they’re free. This is a great way to test how shoppers react to videos on your site without making major commitments to video production, especially if you’ve never experimented with video marketing before.</p>
+<h4>3. Combine your own videos with curated videos</h4>
+<p>Finally, take the best of both worlds and offer your shoppers a mix of your own videos and those curated from other sources. This is a great way to diversify your video content, keep shoppers engaged, and demonstrate your product expertise.</p>
+<h2>Select the right type of videos</h2>
+<p>After you have selected the right video strategy for your business, it’s time to think about the kind of video content your shoppers will value the most. Videos should engage shoppers with interesting stories about the products and motivate them to click the “add to cart” button. Some of the best types of videos for ecommerce are:</p>
+<ul>
+<li><strong>Product review videos.</strong> They let shoppers know what the main features and benefits of the product are, as well as how it performs in action. These videos set expectations about a product before shoppers commit to a purchase and help prevent returns.</li>
+<li><strong>How-to tutorial videos.</strong> Instructional videos showcasing <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">how to assemble, use and maintain products</a> are especially valuable for complex products such as consumer electronics, appliances, cosmetics and baby products.</li>
+<li><strong>Unboxing videos.</strong> Having a video which demonstrates product packaging and how it’s unwrapped helps shoppers visualize their purchases better. These videos help reduce shopper anxiety and spur interest in the product.</li>
+</ul>
+<p>When selecting videos for your site, think about the kinds of questions shoppers are likely to have about your products and let the video answer them. Remember, video should act as a virtual salesperson on your ecommerce site, so choose videos that will help tackle any uncertainties shoppers might have.</p>
+<h2>Best practices for product videos for eCommerce</h2>
+<p>When done right, videos can bring tangible improvements to engagement and conversion rates of ecommerce sites. Here are some practical tips online merchants should have in mind when developing video marketing tactics:</p>
+<ol>
+<li><strong>Get inspired.</strong> Research YouTube for videos about the products and brands you’re selling or about products in the same category. Search for videos by brands, users, experts and retailers. Take notes on the information they provide, the style and length of their videos and calls to action. Use these insights to decide what kind of videos you could make or curate for your site.</li>
+<li><strong>Start by adding videos to your most lucrative products.</strong> If you haven’t used videos on your site before, it’s a good idea to start with your best-selling products or product pages with the highest traffic. This will enable you to quickly gather data about the effects of video on engagement and conversion.</li>
+<li><strong>Bring videos closer to conversion points.</strong> If you want to track how video affects your “add-to-cart” conversion rates, then make sure you add videos directly to product pages, rather than category pages, to maximize their effect on the purchase intent.</li>
+<li><strong>Make video easy to spot.</strong> Place product videos alongside product photos and product description. This grabs shoppers’ attention right away and prompts them to engage with the content. Try to place video above the fold when possible. Avoid placing videos at the bottom of the page, as this makes it difficult for shoppers to discover them.</li>
+<li><strong>Add multiple videos to product pages.</strong> You have multiple product photos on your pages, so why not have multiple videos as well? Try a combination of different types of videos to engage shoppers. Mix up your own videos with user-generated videos, customer testimonials and product reviews to give shoppers an authentic experience. Don’t be afraid to test different <a href="http://blog.goodvid.io/5-ecommerce-video-trends-for-2016/?utm_source=PrestaShop&amp;utm_medium=gp&amp;utm_campaign=video%20marketing" target="_blank">video gallery</a> options to discover your winning formula.</li>
+<li><strong>Make sure videos display well on mobile.</strong> We live in a mobile world and shoppers want a seamless experience, no matter what devices they use to access your online store. Don’t forget to apply responsive design to videos as well, so shoppers can see videos in full quality when browsing your site from mobile.</li>
+</ol>
+<h2>What’s next?</h2>
+<p>Once you’ve drafted your video marketing strategy, make sure to test how well video works on your ecommerce site. Here are some of the things you should be monitoring:</p>
+<ul>
+<li>How do shoppers behave on pages with video versus pages without video?</li>
+<li>What percentage of shoppers actually watches video?</li>
+<li>How long do shoppers engage with video?</li>
+<li>How do videos impact session duration and the number of pages visited?</li>
+<li>What are the conversion rates on pages with video versus pages without video?</li>
+</ul>
+<p>Answering these questions and monitoring shopper behavior will help you understand which approach is right for you. Video is an excellent addition to your marketing efforts, so keep on experimenting and perfecting it. If you haven’t started with video yet, don’t miss out on the opportunity to give your shoppers a great customer experience with videos they’ll love to watch!</p>
+<h2>About the author</h2>
+<p><img class="alignleft size-full wp-image-21235" alt="miljana-mitic" src="https://www.prestashop.com/blog/en/files/2016/02/miljana-mitic.png" width="100" height="100" /></p>
+<p>Miljana Mitic is the Content Marketing Manager at <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, a SaaS solution that helps online stores bring the best product videos from social media to their product pages. Miljana has a PhD in social media marketing and writes about how online stores can make the most out of product videos. She loves discovering new restaurants, reading, playing with dogs and watching YouTube haul videos.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/">Get started with video marketing for eCommerce</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/get-started-video-marketing-ecommerce/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Social Media Case Study: Take a ride with Wobybi</title>
+		<link>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/</link>
+		<comments>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/#comments</comments>
+		<pubDate>Fri, 12 Feb 2016 13:30:09 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Stories]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21230</guid>
+		<description><![CDATA[<p>Meet Wobybi, this week’s featured PrestaShop merchant. We sat down with Alvaro Basterra, the company’s founder, to learn more about how they use social media to promote their online store. Let’s find out what he has to say! Tell us about Wobybi. Wobybi is a custom bike brand based in Spain. We are specialized in [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/">Social Media Case Study: Take a ride with Wobybi</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Meet <a href="http://www.wobybi.es/" target="_blank">Wobybi</a>, this week’s featured PrestaShop merchant. We sat down with Alvaro Basterra, the company’s founder, to learn more about how they use social media to promote their online store. Let’s find out what he has to say!<br />
+<span id="more-21230"></span></p>
+<h2 style="color:#88ae01">Tell us about Wobybi.</h2>
+<p><a href="http://www.wobybi.es/" target="_blank">Wobybi</a> is a custom bike brand based in Spain. We are specialized in building one-of-a kind bikes, so our online store, which runs on PrestaShop 1.5.2, has been designed to allow every customer to design their own bike. They first pick a base model, then customize each piece in their preferred color, and finally review and confirm their order. </p>
+<h2 style="color:#88ae01">How has social media impacted your business?</h2>
+<p>Social networks are a great way to meet and connect with our community. We try to build a personal relationship with our fans. We like to encourage them to interact with us and comment, share, and send us their pictures and videos.</p>
+<p>Because we sell personalized products, interacting with our community is particularly important. We use it to provide unique, exclusive and personal service to each of our customers.</p>
+<h2 style="color:#88ae01">Which social media channels and tools do you use?</h2>
+<p><a href="https://www.facebook.com/Wobybi" target="_blank">Facebook</a> and <a href="https://www.instagram.com/wobybi/" target="_blank">Instagram</a> work well because they are very visual and enable us to showcase our product photos. We also use <a href="https://twitter.com/wobybi" target="_blank">Twitter</a>, but more as a portal for customer service and sharing information. </p>
+<p>Our favorite tools include: </p>
+<ul style="padding-left: 30px">
+<li><a href="https://hootsuite.com/" target="_blank">Hootsuite</a> to schedule publications</li>
+<li><a href="https://sumall.com/" target="_blank">SumAll</a> to receive a daily and weekly summary of notifications</li>
+<li><a href="https://mention.com/en/" target="_blank">Mention</a> to learn more about people who mention us</li>
+<li><a href="https://feedly.com/i/welcome" target="_blank">Feedly</a> to read news on our sector</li>
+<li><a href="https://bitly.com/" target="_blank">Bitly</a> to shorten URLs and monitor the number of clicks</li>
+</ul>
+<h2 style="color:#88ae01">Where do you get inspiration for social media content?</h2>
+<p>We have someone dedicated to managing all of our social media channels full time. Our posts are based on a strategy we’ve defined in our marketing plan: our goal is to create original and quality content to attract new potential customers. Ideas and inspiration can come from anywhere &#8212; Instagram, Pinterest, meetings, brainstorming. The most important thing for merchants to remember is to focus campaigns and not forget about the ultimate goal!</p>
+<h2 style="color:#88ae01">Can you share some tips with other merchants starting out on social media? </h2>
+<p>The most important thing is to establish a strategy for each social network and only focus on a couple in the beginning; there’s no use just “being there to be there.” Include top quality content tailored to your specific customer base. We use a lot of content that features GIF or videos, which suits our demographic very well. Finally, and most importantly, respond to each question and comment you receive on social media.</p>
+<hr width="20%" align="left">
+<p>Ready to launch your own social media campaign for your ecommerce business? Check out part 1 of our series with HootSuite Social Media Coach for DACH &amp; UK, Hanna Oeljeschlaeger, <a href="https://www.prestashop.com/blog/en/support-ecommerce-business-social-media/">on supporting your ecommerce business with social media</a>.</p>
+<p>Don’t own an online store yet? What are you waiting for get started to day with <a href="http://www.prestashop.com/" target="_blank">PrestaShop</a>. </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/">Social Media Case Study: Take a ride with Wobybi</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/social-media-case-study-take-ride-wobybi/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Retargeting Basics for Online Merchants</title>
+		<link>https://www.prestashop.com/blog/en/retargeting-basics-online-merchants/</link>
+		<comments>https://www.prestashop.com/blog/en/retargeting-basics-online-merchants/#comments</comments>
+		<pubDate>Mon, 08 Feb 2016 13:30:30 +0000</pubDate>
+		<dc:creator><![CDATA[Preston's Friends]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21219</guid>
+		<description><![CDATA[<p>As online shoppers, we’ve all experienced it: while window shopping on a website, you decide you’re not quite ready to make a purchase and go back to skimming Buzzfeed articles. As you continue to browse the internet, you notice the products you just finished browsing hovering at the edge of your screen. How did this [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/retargeting-basics-online-merchants/">Retargeting Basics for Online Merchants</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>As online shoppers, we’ve all experienced it: while window shopping on a website, you decide you’re not quite ready to make a purchase and go back to skimming Buzzfeed articles. As you continue to browse the internet, you notice the products you just finished browsing hovering at the edge of your screen. How did this website know you were just ogling those products? If you’re an online merchant, you probably can’t help but ask yourself, would this work for <em>my</em> <a href="http://prestashop.com/">online store</a>? The answer is yes, probably. We invited Garrett Gan from <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>, a digital advertising review website, to give us his insight.<br />
+<span id="more-21219"></span></p>
+<h2 style="color:#353466">1. What is Retargeting?</h2>
+<p>Retargeting is a type of advertising that is only shown to people after they have visited your online store. Here’s how it works: you place a pixel (or a single line of code) on your website, which will drop a tracking cookie onto a user&#8217;s browser. With this tracking cookie, <a href="http://www.thalamus.co/display/retargeting" target="_blank">retargeting companies</a> are able to see where the user travels across multiple websites on the internet, and serve them ads accordingly. </p>
+<p>The best analogy for this is the tracking of animals using tags, which allows scientists to observe their behavior; in this case, the tag is placed on a consumer&#8217;s&#8217; web browser so that later on, you can serve ads that correspond to their behavior. </p>
+<p>One of the best use cases for retargeting is to serve ads to users that have looked at a specific product on your website &#8211; shoes, jeans, t-shirts, trinkets &#8211; and serve them ads for that exact product after they have left (and haven&#8217;t bought yet) with a small discount to entice them to come back to complete the purchase. </p>
+<h2 style="color:#353466">2. What types of companies use retargeting? Why?</h2>
+<p>All types of companies use retargeting, including those in eCommerce, mobile apps, B2B sites &#8212; even advertising companies!</p>
+<p>Retargeting is a powerful tool for communicating with users that have already interacted with your website, to further add value to their experience. </p>
+<p>It also makes their web browsing experience more relevant, as the ads you serve will be for specific items they have already browsed, now with discounts and/or giveaways. Without this technology, merchants are now left to decide which products could be relevant for a user. </p>
+<p>When retargeting first came out, it was sometimes seen by consumers as “creepy,” but many companies have adopted the tactic for years and has come to be a rather widely accepted practice.</p>
+<h2 style="color:#353466">3. How much does it cost to run a retargeting campaign?</h2>
+<p>Online merchants can start for as low as $100 per week (or even less) with companies like <a href="http://www.thalamus.co/ad_partners/adroll" target="_blank">AdRoll</a>, or <a href="http://www.thalamus.co/ad_partners/retargeter" target="_blank">Retargeter</a>. There are also larger companies like <a href="http://www.thalamus.co/ad_partners/tellapart" target="_blank">TellApart</a>, <a href="http://www.thalamus.co/ad_partners/criteo" target="_blank">Criteo</a>, or <a href="http://www.thalamus.co/ad_partners/simpli-fi" target="_blank">Simpli.fi</a> that offer more robust features like dynamic creative optimization (changing ads algorithmically to serve the highest performing one), or Product Catalog Feeds (where a consumer can see items similar to the item they just viewed on the e-commerce website).</p>
+<h2 style="color:#353466">4. How can online merchants get started with retargeting?</h2>
+<p>It&#8217;s a good practice for merchants of all sizes to start running year-round retargeting campaigns. Many eCommerce companies have increased the number of actual conversions from consumers, simply by offering a small discount in a retargeting ad if a user abandoned their cart.</p>
+<p>Once merchants are more familiar with how to maximize conversions from regular retargeting ads, then they can move to more sophisticated mechanisms, such as dynamic creative optimization, product feed catalogs (both mentioned above), as well as working with <a href="http://www.thalamus.co/display/ad-network" target="_blank">ad networks</a> to drive new customers to the site.</p>
+<hr align="left" width="20%">
+<p>Get started today by checking out reviews on retargeting companies like AdRoll and Retargeter on <a href="http://www.thalamus.co/" target="_blank">Thalamus</a>. Then jump in and launch your first retargeting campaign. Already running a campaign? Share your tips and advice in the comments below. </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/retargeting-basics-online-merchants/">Retargeting Basics for Online Merchants</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/retargeting-basics-online-merchants/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>First steps to using video on Social Media</title>
+		<link>https://www.prestashop.com/blog/en/first-steps-using-video-social-media/</link>
+		<comments>https://www.prestashop.com/blog/en/first-steps-using-video-social-media/#comments</comments>
+		<pubDate>Mon, 08 Feb 2016 11:01:28 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21221</guid>
+		<description><![CDATA[<p>We’ve all done it: one minute, you’re having a quick scroll through Facebook, and the next you’re 30 minutes into a video binge. You’re living proof: videos not only help attract customers’ attention, but when done correctly, they can help companies build up their brand on social media. Today, find out how you can start [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/first-steps-using-video-social-media/">First steps to using video on Social Media</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>We’ve all done it: one minute, you’re having a quick scroll through Facebook, and the next you’re 30 minutes into a video binge. You’re living proof: videos not only help attract customers’ attention, but when done correctly, they can help companies build up their brand on social media. Today, find out how you can start using video on social media to grow your own presence.<br />
+<span id="more-21221"></span></p>
+<h2 style="color:#e07531">Pick a platform</h2>
+<p>Before you even hit “record,” you’ll need to decide where you want to share your content. The platform you choose will determine the length of your video and vice versa. Let’s start with the most popular: </p>
+<h4><a href="https://vine.co/" target="_blank">Vine</a></h4>
+<p>This social media network was purchased by Twitter in 2012. What makes Vine unique is that it supports extremely short videos; the target audience is generally under the age of 20. Following the aquisition, 1 in 5 Vine videos are also shared on Twitter, slightly increasing merchants’ reach. <strong>Max Video Length: 6 seconds</strong></p>
+<h4><a href="https://www.instagram.com/" target="_blank">Instagram</a></h4>
+<p>With Instagram, you get the best of both image and video. In 2010, the company hoped to be the image-sharing platform of this generation. With <a href="http://venturebeat.com/2013/06/20/instagram-users/" target="_blank">130 million monthly users</a>, they aimed to do the same for video in <a href="http://techcrunch.com/2013/06/20/facebook-instagram-video/" target="_blank">2013</a> by allowing users to upload videos to their feed. If you already have a solid Instagram following, you’ll have no problem adding videos. <strong>Max Video Length: 15 seconds</strong></p>
+<h4><a href="https://www.facebook.com/" target="_blank">Facebook</a></h4>
+<p>Facebook’s <a href="http://newsroom.fb.com/news/2015/09/introducing-360-video-on-facebook/" target="_blank">the 360 video</a> was hands down the coolest video innovation of 2015. Facebook users can now watch videos and explore them from all 360 angles by simply tilting or rotating their mobile device. Push the envelope while building your Facebook brand: what more could you ask for? <strong>Max Video Length: 3 minutes or 180 seconds</strong></p>
+<h4><a href="http://twitter.com/" target="_blank">Twitter</a></h4>
+<p>Like Vine, Twitter also allows users to post videos and host them directly from the app. These videos can be longer and uploaded directly from the app. They are accompanied by a tweet for increased shareability. <strong>Max Video Length: 30 seconds</strong></p>
+<h4><a href="https://www.youtube.com/" target="_blank">YouTube</a></h4>
+<p>Possibly the biggest advantage of using YouTube is its connection with Google. If you create DIY videos or great tutorials, having great SEO linked to them can help you rank high in search results and acquire new potential customers. The second benefit is your ability to rake in additional income (from YouTube’s ads) with increased video views. <strong>Max Video Length: 15 minutes for 900 seconds</strong></p>
+<h4><a href="https://vimeo.com/" target="_blank">Vimeo</a></h4>
+<p>Dubbed the more “professional” version of <a href="http://mashable.com/2013/05/30/vimeo-over-youtube/#9fEYcbGXjkqD" target="_blank">YouTube</a>, Vimeo allows users to pay for additional features, a key feature of their business model. Because Vimeo doesn’t rely on ads for revenue, your customers don’t have to watch any ads before they get to your content. If you’re putting out short videos of cinematic quality, consider using Vimeo. <strong>Max Video Length: None / Video (Up to 25 GB a year)</strong></p>
+<h2 style="color:#e07531">Ideas for social media videos</h2>
+<p>Now that you know how long you want your videos to be, you should decide what type of content you want to produce. Here are a few ideas to get you started: </p>
+<ol>
+<li><strong>Tell a Story.</strong> &#8211; Think of this as a short feature film. <a href="https://www.youtube.com/watch?v=qOIdI_kZNBU" target="_blank">Extra Gum</a> did a tremendous job at telling a story (related to their product) and giving everyone who watched the short film the love chills.</li>
+<li><strong>Customer Stories</strong> (user generated content) &#8211; Share some of your current customers’ experiences with the potential customers you want to reach. It’s great if you can interview current customers yourself, but you could also follow <a href="https://www.facebook.com/gopro/videos" target="_blank">GoPro</a>’s lead and encourage customers to submit their best videos.</li>
+<li><strong>Behind the Scenes</strong> (or documentary) &#8211; Give customers a look behind your well-oiled doors. If you hand craft your own products, show how they’re made. Put together a photoshoot or lookbook, or share a peek with customers like NYC- based <a href="https://vimeo.com/25439223" target="_blank">Crystal Cactus</a> did.</li>
+<li><strong>Guest or Staff Interviews.</strong> Ask questions to another expert, or switch it up and have your followers be the interviewer and you become the interviewee, answering the questions they have (like we did with our <a href="https://www.facebook.com/prestashop/videos/1227558680594405/?theater" target="_blank">#EQM Facebook Campaign</a>).</li>
+<li><strong>How to Videos</strong> &#8211; Don’t think you can teach something in just a few seconds? Let Oreo prove you wrong with a <a href="https://v.cdn.vine.co/r/videos/48133739-9554-456A-9AF9-803F42B521B5-618-00000112A175BA3D_1.0.7.mp4?versionId=NQv5RUjDw9AoOKfUOz8lEONNRqJZ3CxV" target="_blank">Vine about making Sprinkles</a>. You’re an expert in your product, so use videos to teach customers a new skill.</li>
+<li><strong>Education / History</strong> &#8211; Use videos to teach your social community something. <a href="https://twitter.com/generalelectric/status/683089956277886977" target="_blank">GE</a> uses their infatuation with science to share their geeky wisdom. In this video, they show different ways people have used technology to change the world.</li>
+<li><strong>3D / Stop motion / cartoon animations</strong> &#8211; Check out this stop motion animation by PrestaShop Store <a href="https://www.instagram.com/p/_o6pdjDv0S/" target="_blank">SelfPackaging</a>. This holiday theme really tapped into holiday season cheer. Afterall, who wouldn&#8217;t want Santa to stop by their home?</li>
+</ol>
+<p>Now you have the tools you need to start using video marketing on social media. What are you waiting for? His the record button and get started! Already using video on social media? Share your tips in the comments below. </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/first-steps-using-video-social-media/">First steps to using video on Social Media</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/first-steps-using-video-social-media/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="https://v.cdn.vine.co/r/videos/48133739-9554-456A-9AF9-803F42B521B5-618-00000112A175BA3D_1.0.7.mp4" length="916512" type="video/mp4" />
+		</item>
+		<item>
+		<title>Lookbook: Ecommerce Design Inspiration for 2016</title>
+		<link>https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/</link>
+		<comments>https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/#comments</comments>
+		<pubDate>Wed, 03 Feb 2016 14:29:51 +0000</pubDate>
+		<dc:creator><![CDATA[Juan Manuel Molina]]></dc:creator>
+				<category><![CDATA[PrestaShop News]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21206</guid>
+		<description><![CDATA[<p>The most successful PrestaShop online stores all have something in common: well thought-out design and outstanding images for backgrounds and products. The 2016 PrestaShop Lookbook features a selection of 24 examples of carefully chosen user interfaces, intelligent and use of color, and best practices, all of which drive conversions. Find inspiration in the most elegant [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/">Lookbook: Ecommerce Design Inspiration for 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><strong>The most successful PrestaShop online stores all have something in common:</strong> well thought-out design and outstanding images for backgrounds and products.</p>
+<p>The 2016 PrestaShop Lookbook features a selection of 24 examples of carefully chosen user interfaces, intelligent and use of color, and best practices, all of which drive conversions.<span id="more-21206"></span></p>
+<p>Find inspiration in the most elegant PrestaShop online stores as you feast your eyes on our unique ecommerce art gallery!</p>
+<div class="text-center"><a class="btn btn-sucess" style="background-color: #2f2f2f;border: 1px solid #191717;border-bottom: 3px solid #292727;margin: 20px 0 0;color: #fff" href="https://www.prestashop.com/en/lookbook" target="_blank"><i class="fa fa-download"></i>   Download the Lookbook</a></div>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/">Lookbook: Ecommerce Design Inspiration for 2016</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/lookbook-ecommerce-design-inspiration-2016/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The merchant&#8217;s guide to Super Bowl 50</title>
+		<link>https://www.prestashop.com/blog/en/merchants-guide-super-bowl-50/</link>
+		<comments>https://www.prestashop.com/blog/en/merchants-guide-super-bowl-50/#comments</comments>
+		<pubDate>Wed, 03 Feb 2016 13:30:40 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21183</guid>
+		<description><![CDATA[<p>The Super Bowl is the crowning night of America’s favorite pastime. Each year, football fans tune in to see who will take home the coveted Vince Lombardi Trophy, and the rest of America hangs around for the legendary commercials. Whether you’re a die-hard fan or dread Sunday nights in winter, we’re sharing 5 marketing ideas [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/merchants-guide-super-bowl-50/">The merchant&#8217;s guide to Super Bowl 50</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The Super Bowl is the crowning night of America’s favorite pastime. Each year, football fans tune in to see who will take home the coveted Vince Lombardi Trophy, and the rest of America hangs around for the legendary commercials. Whether you’re a die-hard fan or dread Sunday nights in winter, we’re sharing 5 marketing ideas to help you score some sales this Super Bowl 50.<br />
+<span id="more-21183"></span> </p>
+<h2 style="color:#2b5201">Remind me again why I should care about the Super Bowl?</h2>
+<p>The Super Bowl is the <a href="http://www.nfl.com/" target="_blank">National Football League</a>’s annual championship game. Aside from being football’s largest televised event each year, with over 100 million viewers, it’s also famous for the high price tag on its 30-second ads. This year, that price is said to be about <a href="http://fortune.com/2015/08/06/super-bowl-ad-cost/" target="_blank">$5 million per 30 seconds</a> (whoever said time is money, is right!). The high price pushes companies to pull out all the stops so their ad makes an impact. Each year the NFL also invites artists to perform during their 30-minute half-time show. Performers like Coldplay, Bruno Mars, and Beyonce are expected to make an appearance this year. </p>
+<h2 style="color:#2b5201">Colors</h2>
+<p>This year, the <a href="http://www.panthers.com/" target="_blank">Carolina Panthers</a> will be facing off against the <a href="http://www.denverbroncos.com/" target="_blank">Denver Broncos</a>. Even if you didn’t manage to score an advertising spot this year, you can tailor your onsite marketing efforts to catch the attention of sports fans or people in their entourage. Just like at Christmas or Valentine’s, you can make a few graphic design tweaks to get your site in the spirit and capitalize on Super Bowl fever. Each team’s colors are listed below for some inspiration: </p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/02/broncos-300x174.png" alt="broncos" width="300" height="174" class="aligncenter size-medium wp-image-21185" /></p>
+<p><strong>Broncos: <span style="color:#de6226">Orange</span>, <span style="color:#13264b">Navy Blue</span>, <span style="color:#fff;background-color:#000">White</span></strong></p>
+<p><img src="https://www.prestashop.com/blog/en/files/2016/02/panthers-300x300.png" alt="panthers" width="300" height="300" class="aligncenter size-medium wp-image-21184" /></p>
+<p><strong>Panthers: <span style="color:#009ada">Panther Blue</span>, <span style="color:#000016">Black</span>, <span style="color:#d1d2d4">Silver</span>, <span style="color:#fff;background-color:#000">White</span></strong></p>
+<p>To see this in action, check out <a href="https://www.covergirl.com/collections/nfl-collection" target="_blank">CoverGirl, an NFL sponsor</a>. They do a great job of targeting their products to the non-traditional sports fan (in other words, yes, women like football, too). Merchants selling apparel and accessories can easily promote products for fans to wear to show their support at the stadium or house party. </p>
+<p>If you’re a merchant selling food-related goodies, you’re also in luck. Although football is an all-American sport, tickets for this particular event start in the thousands, out of reach of many Americans. Most people (like me) will be enjoying the game from a Super Bowl Party. This means it’s time to feature your fruit tray and promote easy-to-serve finger foods that fans can either bring to or serve at these parties. </p>
+<p>If these aren’t options for you, try just interacting with customers on your social media pages. Succeeding in social media is not always about making the conversation about your brand. It’s just as important to participate in the conversation. Root for your favorite team or ask your fans on social media to chime in. You could consider holding a friendly social-only competition with small discounts or exclusive product giveaways as the prize.</p>
+<h2 style="color:#2b5201">The Lingo:</h2>
+<p>A few words you’ll hear (and can use in your marketing campaigns): </p>
+<ol>
+<li><strong>Touchdown:</strong> Football’s term for a goal. Each touchdown is worth 6 points, and the opportunity to score 1 additional point or Extra Point (by kicking it between the posts) or 2 additional points 2 point conversion (by running or passing the ball in again.)</li>
+<li><strong>Field Goal:</strong> The only other way to score a point. A kicker must kick the ball between the posts to to receive 3 points.</li>
+<li><strong>Rings:</strong> Although the winning team receives a trophy, each player receives an additional Super Bowl Ring. Cam Newton: 0, Peyton Manning: 1.</li>
+<li><strong>Kick Off:</strong> The game officially starts Sunday, February 7 at 6:30 PM. And since most of us won’t be in attendance, we’ll be watching it on CBS.</li>
+<li><strong>Quarterback (QB):</strong> This year, Cam Newton and Peyton Manning are the leading men&#8211;they get to throw the ball.</li>
+<li><strong>Interception:</strong> When the opposing team catches the ball instead of the intended receiver. Great for the team that caught the ball, bad for the team who (mis)threw the ball.</li>
+<li><strong>Dab:</strong> The dance quarterback Cam Newton does after he completes a successful touchdown. Great to know, when you see <a href="https://media.giphy.com/media/ga3AL3ZPcywec/giphy.gif" target="_blank">GIFs of him dancing</a> on the field all over social media.</li>
+</ol>
+<p>So there you have it, your merchant guide to enjoying Super Bowl 50. Whether you choose to take advantage of these tips this year, or just enjoy the game, we’ll see you at Kickoff! </p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/merchants-guide-super-bowl-50/">The merchant&#8217;s guide to Super Bowl 50</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/merchants-guide-super-bowl-50/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Essential Tips For Launching A Profitable Rewards Program [Infographic]</title>
+		<link>https://www.prestashop.com/blog/en/3-essential-tips-for-launching-a-profitable-rewards-program-infographic/</link>
+		<comments>https://www.prestashop.com/blog/en/3-essential-tips-for-launching-a-profitable-rewards-program-infographic/#comments</comments>
+		<pubDate>Tue, 02 Feb 2016 15:48:06 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=21198</guid>
+		<description><![CDATA[<p>When you launch a store, your focus should be on customer acquisition. But at some point, your traffic and sales will start to plateau. If you’re at that point already, it’s time to turn your attention to customer retention. Today’s guest blogger, Darren DeMatas, co-founder of Selfstartr, an ecommerce consulting company helping merchants launch their [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-essential-tips-for-launching-a-profitable-rewards-program-infographic/">3 Essential Tips For Launching A Profitable Rewards Program [Infographic]</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>When you launch a store, your focus should be on <a href="https://www.prestashop.com/blog/en/3-simple-growth-hacks-for-ecommerce-customer-acquisition/">customer acquisition</a>. But at some point, your traffic and sales will start to plateau. If you’re at that point already, it’s time to turn your attention to <a href="https://www.prestashop.com/blog/en/5-building-blocks-improving-lead-retention/">customer retention</a>. Today’s guest blogger, Darren DeMatas, co-founder of <a href="https://selfstartr.com/" target="_blank">Selfstartr</a>, an ecommerce consulting company helping merchants launch their ideas and achieve their goals, tells you how.</em><br />
+<span id="more-21198"></span><br />
+A go-to retention strategy for many ecommerce businesses is to launch a rewards program. Why not? The average U.S. consumer is enrolled in over 13 loyalty programs! Tapping into your existing customer base makes a lot of sense:</p>
+<ul style="padding-left: 30px">
+<li>It is 6X more expensive to acquire a new customer than it is to keep one</li>
+<li>The probability of converting an existing customer is 10X higher than a new prospect</li>
+<li>Current customers spend 67% more than new ones</li>
+</ul>
+<p>The <a href="http://selfstartr.com/customer-loyalty-programs/" target="_blank">customer loyalty infographic from Selfstartr</a> shows that these programs can generate ROI if you take the right approach.  Here are three essential tips to launch a profitable rewards program that builds true loyalty.</p>
+<h2 style="color:#de166c">1. Reward For Engagement</h2>
+<p>Almost all loyalty programs reward customers for spending money (97%). But only 25% reward customers for engagement. It’s no wonder that 77% of them fail within two years.</p>
+<p>Customers want to build a relationship that goes beyond money.  Prestashop loyalty add-ons like <a href="http://addons.prestashop.com/en/referral-loyalty-programs/4414-all-in-one-rewards-loyalty-sponsorship-affiliation-fb.html" target="_blank">All-in-one Rewards</a> make this possible. In addition to purchases, you can reward customers for referring their friends to your site through blogs and social media.  This add-on allows you to easily give points for likes. Showing up on your customers’ Facebook wall helps expand your presence and create engagement.</p>
+<p>Under Armour is a fantastic example of engagement-based rewards. They give customers points in exchange for exercising and healthy eating.</p>
+<h2 style="color:#de166c">2. Don’t Make The Focus On Discounts</h2>
+<p>71% of loyalty program members earn more than $100K/year. Not too shabby. While we all like a good deal, it’s safe to say that a saving an extra few bucks won’t really drive customers to purchase. According to Harvard Business professor Gerald Zaltman, <a href="http://hbswk.hbs.edu/item/the-subconscious-mind-of-the-consumer-and-how-to-reach-it" target="_blank">95% of our purchase decision</a> process occurs in the subconscious mind.</p>
+<p>So price isn’t necessarily the first barrier you should try to overcome. Often, customers are not sure what product to buy. Clear contact information, links to customer service policies and live chat can help boost buyer confidence.</p>
+<p>Show your customers you’re there for them, not just to collect money.</p>
+<h2 style="color:#de166c">3. Show Customers That You’re Loyal To Them</h2>
+<p>Show customers that you care about them more than their money. Make <a href="https://selfstartr.com/.%C2%A0https://www.prestashop.com/blog/en/the-best-ways-to-build-customer-loyalty-for-your-online-store/" target="_blank">customer service friendly and accessible</a>, even for non-paying customers. You can save your product rewards for high dollar clients, but everyone deserves top notch service.</p>
+<p>73% of consumers feel that loyalty programs are for businesses to show their loyalty to customers. The customer is always right, right? Treat them like you want them to come back and they actually might.</p>
+<div style="clear:both">
+	<a href="https://selfstartr.com/true-value-of-customer-loyalty-programs/" target="_blank"><br />
+		<img src="https://2y3k762v0f153f3cbu4efo8g-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Value-Of-Customer-Loyalty.png" title="The True Value Of Customer Loyalty Programs" alt="The True Value Of Customer Loyalty Programs" border="0" /><br />
+	</a>
+</div>
+<p>Courtesy of: <a href="https://selfstartr.com" target="_blank">Selfstartr</a></p>
+<p>If you’re looking to improve your customer lifetime value, be sure to check out all the <a href="http://addons.prestashop.com/en/503-referral-loyalty-programs" target="_blank">reward program add-ons</a> from Prestashop.</p>
+<p>Darren has an MBA in Internet Marketing, but hangs his hat on a decade of experience in the trenches. Check out <a href="https://selfstartr.com/" target="_blank">Selfstartr</a> to learn more about ecommerce. Follow him on <a href="https://twitter.com/DarrenDeMatas" target="_blank">Twitter</a> and <a href="https://www.linkedin.com/in/internetmarketingmba" target="_blank">LinkedIn</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-essential-tips-for-launching-a-profitable-rewards-program-infographic/">3 Essential Tips For Launching A Profitable Rewards Program [Infographic]</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-essential-tips-for-launching-a-profitable-rewards-program-infographic/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

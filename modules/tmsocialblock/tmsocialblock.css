@@ -1,0 +1,40 @@
+#tm_socialblock .title_block{display:none;}
+#tm_socialblock	{  width:100%; float:left; }
+#tm_socialblock ul	{ list-style:none;}
+.ie7 #tm_socialblock li { display:inline;width: 45px; height: 45px;}
+#tm_socialblock li { display:inline-block;
+    height: 45px;
+    font-size:0; margin: 0 2px;
+    width: 45px;transition-duration: 300ms;}
+
+#tm_socialblock li.tm_facebook:hover{background-position:-3px -52px; }		
+#tm_socialblock li.tm_facebook	
+{
+	background:url("img/tm_sprite_pict_social_block.png") no-repeat scroll -3px -2px transparent;
+}
+#tm_socialblock li.tm_twitter:hover{background-position:-4px -152px;}	
+#tm_socialblock li.tm_twitter	
+{
+	background:url("img/tm_sprite_pict_social_block.png") no-repeat scroll -4px -102px transparent;
+}
+
+#tm_socialblock li.tm_rss:hover{background-position:-4px -252px;}	
+#tm_socialblock li.tm_rss	
+{
+	background:url("img/tm_sprite_pict_social_block.png") no-repeat scroll -4px -202px transparent;
+}
+
+#tm_socialblock li.tm_Youtube:hover{background-position:-4px -352px}	
+#tm_socialblock li.tm_Youtube	
+{
+	
+	background:url("img/tm_sprite_pict_social_block.png") no-repeat scroll -4px -302px transparent;
+}
+
+#tm_socialblock li.tm_linkdin:hover{background-position: -4px -452px}		
+#tm_socialblock li.tm_linkdin	
+{
+	background:url("img/tm_sprite_pict_social_block.png") no-repeat scroll -4px -402px transparent;
+}
+
+

@@ -1,0 +1,103 @@
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav { list-style: none;} 
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {position: relative; margin:0; overflow:hidden; width:845px; float:left;}
+
+@media (min-width: 1200px) and (max-width: 1279px) {
+  .flexslider {
+    width: 790px;
+  }
+}
+@media (max-width: 1199px) {
+  .flexslider {
+    width: 600px;
+  }
+}
+@media (max-width: 991px) {
+  .flexslider {
+    width: 485px;
+  }
+}
+@media (max-width: 767px) {
+  .flexslider {
+    width: 100%;
+  }
+}
+
+
+.flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides {}
+
+/* Direction Nav */
+
+/* Control Nav */
+.flexslider:hover .flex-control-nav { display:block;}
+.flex-control-nav {position: absolute; bottom:10px; right:48%; display:none;}
+.flex-control-nav li {margin: 0 1px;float:left;}
+.flex-control-paging li a {
+    cursor: pointer;
+    text-indent: -9999px;
+	background: none repeat scroll 0 0 #fff;
+    border-radius: 15px;
+    cursor: pointer;
+    float: left;
+    height: 10px;
+    margin-right: 5px;
+    margin-top: 0;
+    position: relative;
+    width: 10px;
+}
+.flex-control-paging li a.flex-active,
+.flex-control-paging li a.hover { background:#2376bb;}
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
+.flex-direction-nav
+{
+	display: none;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 42%;
+    width: 100%;
+}
